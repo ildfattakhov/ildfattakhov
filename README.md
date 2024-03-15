@@ -25,7 +25,7 @@
 </p>
 <h3 align="center"> Contacts </h3>
 <p align="center">
-<a href= "https://t.me/Fann1Q"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "https://t.me/ildrf"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "https://www.linkedin.com/in/ildfattakhov/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "mailto:ildfattakhov@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
